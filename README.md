@@ -35,6 +35,7 @@ summarizer-app/
 ├── README.md # Project documentation
 
 
-![App Screenshot](Screenshot 2025-07-22 141913.png)
+![Demo Screenshot](demo_screenshot.png)
+
 
 ## If you like give a star 
