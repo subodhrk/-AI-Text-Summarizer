@@ -2,4 +2,3 @@ flask
 transformers
 torch
 gunicorn 
-python 
